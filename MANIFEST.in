@@ -1,0 +1,4 @@
+include README
+include MANIFEST.in
+recursive-include feefighters *.py
+recursive-include docs *
